@@ -26,6 +26,5 @@ To run this project, you need to have R installed on your machine along with the
 ```R
 Clone the repository:
    ```bash
-
-   git clone https://github.com/nadeemahamad007/Germany-Daily-Electricity-Consumption-Analysis-R
+https://github.com/nadeemahamad007/Germany-Daily-Electricity-Consumption-Analysis-R
 
