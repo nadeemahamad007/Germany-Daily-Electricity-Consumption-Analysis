@@ -22,9 +22,10 @@ The primary dataset used in this analysis is the `opsd_germany_daily.csv`, which
 - zoo for calculating rolling averages
 
 ## Installation
-To run this project, you need to have R installed on your machine along with the following packages:
-```R
-Clone the repository:
-   ```bash
+1.Clone the repository:
+
 https://github.com/nadeemahamad007/Germany-Daily-Electricity-Consumption-Analysis-R
 
+2.To run this project, you need to have R installed on your machine along with the following packages:
+```R
+install.packages(c("ggplot2", "dplyr", "zoo", "tidyr"))
