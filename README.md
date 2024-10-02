@@ -1,7 +1,25 @@
-# Germany Daily Electricity Consumption Analysis in R Programming
-This project analyzes daily electricity consumption in Germany from the provided dataset (opsd_germany_daily.csv). The analysis includes data exploration, visualization, and statistical modeling.
+# Germany Daily Electricity Consumption Analysis in R Programming (2006-2018)
+This project analyzes daily electricity consumption in Germany from 2006 to 2018, focusing on key factors such as wind and solar energy production. It includes data visualization, time series decomposition, and statistical analysis to understand consumption patterns and renewable energy contributions.
 ## Overview
 This project analyzes daily electricity consumption data in Germany from 2006 to 2018. The dataset includes information on electricity consumption, solar energy production, and wind energy production, enabling a comprehensive analysis of energy trends over time.
+
+## Features
+**Data Visualization:** Visual representations of electricity consumption trends, wind and solar energy production.
+
+**Time Series Analysis:** Seasonal decomposition, trend analysis, and anomaly detection in energy consumption data.
+
+**Statistical Methods:** Applied techniques to analyze correlations between variables, including consumption, wind, and solar power.
+
+**Predictive Modeling:** (if applicable): Forecasting future electricity consumption based on historical trends.
+
+## Visualizations
+The project includes the following visualizations:
+
+**Time Series Plot:** Visualizing the daily electricity consumption over time.
+
+**Decomposition Plot:** Displaying trend, seasonal, and residual components of the consumption time series.
+
+**Correlation Plot:** Showing relationships between electricity consumption and renewable energy production.
 
 ## Dataset
 The primary dataset used in this analysis is the `opsd_germany_daily.csv`, which contains daily records of:
